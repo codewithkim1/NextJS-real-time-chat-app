@@ -1,7 +1,4 @@
 # NextJS Real-Time Chat App
-
-This is a modern full-stack development project created by Josh.
-
 ## Key Features
 
 - Live messaging
